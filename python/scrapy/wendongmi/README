@@ -1,0 +1,19 @@
+tzt_spider
+============== 
+ 
+该项目是爬虫项目，用于问董秘数据的爬取
+
+项目使用的框架：scrapy
+python版本：V3.5.1
+scrapy版本：V1.5.0
+scrapy学习文档：https://doc.scrapy.org/en/latest/index.html
+ 
+*** 
+ 
+##Real spider example: dongmi_sh
+ 
+####Tutorial 
+ 
+    git clone http://cjl996@192.168.239.239:1080/zx/tzt_spider.git
+    cd tzt_spider/winspider
+    scrapy crawl dongmi_sh
